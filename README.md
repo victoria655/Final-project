@@ -11,6 +11,9 @@ Enjoy the game, and let the best move win! 🚀🎉
 
 
 
+How to manouver:
+please find your way to the index.html file and you will have a smooth access from there
+
 
 link git@github.com:victoria655/Final-project.git
 
