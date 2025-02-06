@@ -8,5 +8,9 @@ Why You'll Love It:
 This web application offers a user-friendly interface, seamless gameplay, and an engaging design that makes every match enjoyable. Whether you’re here for fun or competition, I invite you to play, challenge yourself, and share your experience.
 
 Enjoy the game, and let the best move win! 🚀🎉
+
+
+
+
 link git@github.com:victoria655/Final-project.git
 
